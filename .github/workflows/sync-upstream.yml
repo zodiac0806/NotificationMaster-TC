@@ -118,7 +118,7 @@ jobs:
           name: "NotificationMaster ${{ steps.build.outputs.version }}（自動同步上游）"
           target_commitish: tw-fix
           files: |
-            NotificationMaster/bin/Release/latest.zip
+            NotificationMaster/bin/Release/NotificationMaster/latest.zip
           generate_release_notes: false
 
       - name: Report unfinished sync
