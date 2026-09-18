@@ -1,6 +1,6 @@
-[submodule "NotificationMasterAPI"]
+﻿[submodule "NotificationMasterAPI"]
 	path = NotificationMasterAPI
-	url = ../NotificationMasterAPI.git.git
+	url = ../NotificationMasterAPI.git
 [submodule "ECommons"]
 	path = ECommons
-	url = ../ECommons.git.git
+	url = ../ECommons.git
