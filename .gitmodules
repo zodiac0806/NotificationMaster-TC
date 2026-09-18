@@ -1,6 +1,6 @@
 [submodule "NotificationMasterAPI"]
 	path = NotificationMasterAPI
-	url = https://github.com/zodiac0806/NotificationMasterAPI.git
+	url = ../NotificationMasterAPI.git.git
 [submodule "ECommons"]
 	path = ECommons
-	url = https://github.com/zodiac0806/ECommons.git
+	url = ../ECommons.git.git
