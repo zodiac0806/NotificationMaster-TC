@@ -1,6 +1,6 @@
 [submodule "NotificationMasterAPI"]
 	path = NotificationMasterAPI
-	url = https://github.com/ffxiv-tc-port/NotificationMasterAPI
+	url = ../NotificationMasterAPI.git
 [submodule "ECommons"]
 	path = ECommons
-	url = https://github.com/ffxiv-tc-port/ECommons.git
+	url = ../ECommons.git.git
