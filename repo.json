@@ -6,7 +6,7 @@
     "AssemblyVersion": "7.15.0.21",
     "Description": "在遊戲視窗縮到最小時，通知你各種遊戲內事件（副本排到、準備確認、聊天訊息、接近地圖標記等）。\n\n本版本新增「抵達（vnavmesh）」通知模組：vnavmesh 完成一次自動導航（不限地圖標記，Questionable 等外掛觸發的導航也算）就會通知，可搭配 TataruPraise（塔塔露誇獎）語音提醒。",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/okaminico/NotificationMaster",
+    "RepoUrl": "https://github.com/zodiac0806/NotificationMaster-TC",
     "Tags": [
       "notification",
       "voice",
@@ -23,8 +23,8 @@
     "LoadPriority": 0,
     "Punchline": "遊戲在背景時的各種事件通知（台服修正版，新增 vnavmesh 抵達通知）。",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/okaminico/NotificationMaster/releases/download/NotificationMaster-v7.15.0.21-autosync/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/okaminico/NotificationMaster/releases/download/NotificationMaster-v7.15.0.21-autosync/latest.zip",
+    "DownloadLinkInstall": "https://github.com/zodiac0806/NotificationMaster-TC/releases/download/v7.15.0.21/NotificationMaster.zip",
+    "DownloadLinkUpdate": "https://github.com/zodiac0806/NotificationMaster-TC/releases/download/v7.15.0.21/NotificationMaster.zip",
     "Changelog": "自動合併 ffxiv-tc-port/NotificationMaster 上游更新（2026-09-05）。"
   }
 ]
